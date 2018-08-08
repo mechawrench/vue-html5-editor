@@ -343,7 +343,7 @@ var image = {
             return json.ok ? json.data : null
         }
     },
-    dashboard: dashboard$3
+    dashboard: null
 };
 
 var template$4 = "<div> <h3 style=\"text-align: center\">Vue-html5-editor&nbsp;{{version}}</h3> <p style=\"text-align: center\"> repository: <a href=\"https://github.com/PeakTai/vue-html5-editor\" target=\"_blank\"> https://github.com/PeakTai/vue-html5-editor </a> </p> </div> ";
